@@ -3,7 +3,7 @@ zhaojia
 15836587129
 版本3.0.0
 分支：hot-fix
-master test 1
+master test 2 
 hot-fix test
 github修改 1
 clone添加
